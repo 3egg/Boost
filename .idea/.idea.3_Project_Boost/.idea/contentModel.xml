@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\lisandan\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\lisandan\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_3_Project_Boost.1908002887.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Public\Documents\Unity Projects\3_Project_Boost" t="IncludeRecursive">
+      <e p="3_Project_Boost.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Rocket.cs" t="Include" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
