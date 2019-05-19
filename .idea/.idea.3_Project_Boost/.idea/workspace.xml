@@ -24,9 +24,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cc7ef6-60fe-4427-8651-689fe6346e22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Earth.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Earth.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Directional Light.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Directional Light.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Level1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Main Camera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Main Camera.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rock Ship.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rock Ship.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Terrain.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,50 +44,66 @@
     <session id="580254329">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="1" />
+          <entry key="cs" value="3" />
           <entry key="mat" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="1" />
+          <entry key="C#" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="256" />
+          <entry key="cs" value="1288" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="256" />
+          <entry key="C#" value="1288" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+            <state relative-caret-position="38">
+              <caret line="74" column="21" lean-forward="true" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
               <folding>
-                <marker date="1558163973026" expanded="false" signature="6:78" ph="..." />
-                <marker date="1558163973026" expanded="true" signature="115:940" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="225:335" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="393:429" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="462:938" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="509:682" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="720:822" ph="{...}" />
-                <marker date="1558163973026" expanded="true" signature="864:932" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="6:113" ph="..." />
+                <marker date="1558274149491" expanded="true" signature="150:3894" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="727:786" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="869:1219" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="1277:1625" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="1292:1497" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+                <marker date="1558274149491" expanded="true" signature="1531:1595" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="1657:1669" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="1721:2105" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="1870:2099" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2136:2395" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2180:2220" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2428:2690" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2468:2684" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2725:2772" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2806:2853" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="2880:3341" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3044:3164" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3206:3292" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3368:3892" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3429:3756" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3606:3742" ph="{...}" />
+                <marker date="1558274149491" expanded="true" signature="3773:3876" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,8 +115,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337C3B99-D39E-4C4E-ABDC-0294B81B74C9/e1/3092521a/RigidbodyConstraints.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/84/c3249640/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/c8/7a3ecb9f/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,10 +134,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="555" />
-    <option name="y" value="144" />
-    <option name="width" value="981" />
-    <option name="height" value="1032" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
@@ -161,9 +185,9 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="1052">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="9664">
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="1052" />
+      <option name="pid" value="9664" />
       <method v="2" />
     </configuration>
     <list>
@@ -181,12 +205,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558150257490</updated>
-      <workItem from="1558150263708" duration="4100000" />
+      <workItem from="1558150263708" duration="10034000" />
+      <workItem from="1558237693544" duration="8231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4100000" />
+    <option name="totallyTimeSpent" value="18265000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,31 +226,31 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.2497979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="TeamCity" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.22735347" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6287744" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="TeamCity" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,19 +284,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337C3B99-D39E-4C4E-ABDC-0294B81B74C9/e1/3092521a/RigidbodyConstraints.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/c8/7a3ecb9f/MonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="48" lean-forward="true" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        <state relative-caret-position="38">
+          <caret line="74" column="21" lean-forward="true" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
           <folding>
-            <marker date="1558163973026" expanded="false" signature="6:78" ph="..." />
-            <marker date="1558163973026" expanded="true" signature="115:940" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="225:335" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="393:429" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="462:938" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="509:682" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="720:822" ph="{...}" />
-            <marker date="1558163973026" expanded="true" signature="864:932" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="6:113" ph="..." />
+            <marker date="1558274149491" expanded="true" signature="150:3894" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="727:786" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="869:1219" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="1277:1625" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="1292:1497" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+            <marker date="1558274149491" expanded="true" signature="1531:1595" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="1657:1669" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="1721:2105" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="1870:2099" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2136:2395" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2180:2220" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2428:2690" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2468:2684" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2725:2772" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2806:2853" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="2880:3341" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3044:3164" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3206:3292" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3368:3892" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3429:3756" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3606:3742" ph="{...}" />
+            <marker date="1558274149491" expanded="true" signature="3773:3876" ph="{...}" />
           </folding>
         </state>
       </provider>
