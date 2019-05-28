@@ -6,6 +6,7 @@
     <e p="C:\Users\Public\Documents\Unity Projects\3_Project_Boost" t="IncludeRecursive">
       <e p="3_Project_Boost.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\Oscillator.cs" t="Include" />
       <e p="Assets\Rocket.cs" t="Include" />
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

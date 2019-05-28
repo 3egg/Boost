@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class Rocket : MonoBehaviour
 {
-    [SerializeField] private float rccThrust = 100f;
-    [SerializeField] private float mainThrust = 50f;
-    [SerializeField] private float speed = 10f;
+    [SerializeField] private float rccThrust = 300f;
+    [SerializeField] private float mainThrust = 2000f;
+    [SerializeField] private float levelLoadDelay = 2f;
     new Rigidbody rigidbody;
 
     [SerializeField] private ParticleSystem successParticle;
@@ -28,6 +28,7 @@ public class Rocket : MonoBehaviour
         Transcend
     }
 
+    private bool immortal;
     AudioSource audioSource;
 
     // Use this for initialization
@@ -36,10 +37,10 @@ public class Rocket : MonoBehaviour
         rigidbody = GetComponent<Rigidbody>();
         audioSource = GetComponent<AudioSource>();
         //冻结除了移动方向外的收引力作用的移动
-        rigidbody.constraints = RigidbodyConstraints.FreezePositionZ;
+        /*rigidbody.constraints = RigidbodyConstraints.FreezePositionZ;
 
         rigidbody.constraints = RigidbodyConstraints.FreezeRotationX;
-        rigidbody.constraints = RigidbodyConstraints.FreezeRotationY;
+        rigidbody.constraints = RigidbodyConstraints.FreezeRotationY;*/
     }
 
     // Update is called once per frame
@@ -55,6 +56,12 @@ public class Rocket : MonoBehaviour
         }
 
         MoveForward();
+
+        if (Debug.isDebugBuild)
+        {
+            PressLKey();
+            PressCKeyForImmortal();
+        }
     }
 
     private void MoveForward()
@@ -63,6 +70,11 @@ public class Rocket : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
+        if (immortal)
+        {
+            return;
+        }
+
         if (state == State.Dead)
             return;
 
@@ -92,7 +104,7 @@ public class Rocket : MonoBehaviour
         deathParticle.Play();
         audioSource.Stop();
         audioSource.PlayOneShot(deathClip);
-        Invoke("LoadFirstLevel", 1f);
+        Invoke("LoadFirstLevel", levelLoadDelay);
     }
 
     private void StartSuccess()
@@ -103,7 +115,7 @@ public class Rocket : MonoBehaviour
             audioSource.Stop();
             audioSource.PlayOneShot(successClip);
             successParticle.Play();
-            Invoke("LoadNextLevel", 1f);
+            Invoke("LoadNextLevel", levelLoadDelay);
         }
     }
 
@@ -114,7 +126,15 @@ public class Rocket : MonoBehaviour
 
     private void LoadNextLevel()
     {
-        SceneManager.LoadScene(1);
+        int currentScene = SceneManager.GetActiveScene().buildIndex;//获取到所有scene.是数量,不是index
+        if (currentScene == SceneManager.sceneCountInBuildSettings - 1)
+        {
+            SceneManager.LoadScene(0);//这里是加载索引.
+        }
+        else
+        {
+            SceneManager.LoadScene(currentScene + 1);
+        }
     }
 
     private void Rotate()
@@ -141,7 +161,7 @@ public class Rocket : MonoBehaviour
             if (Input.GetKey(KeyCode.Space))
             {
                 //vector就是对象的transform里面的position
-                rigidbody.AddRelativeForce(Vector3.up * mainThrust);
+                rigidbody.AddRelativeForce(Vector3.up * mainThrust * Time.deltaTime);
                 if (!audioSource.isPlaying)
                 {
                     audioSource.PlayOneShot(thrustClip);
@@ -152,6 +172,29 @@ public class Rocket : MonoBehaviour
             {
                 audioSource.Stop();
                 thrustParticle.Stop();
+            }
+        }
+    }
+
+    private void PressLKey()
+    {
+        if (Input.GetKey(KeyCode.L))
+        {
+            LoadNextLevel();
+        }
+    }
+
+    private void PressCKeyForImmortal()
+    {
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            if (immortal)
+            {
+                immortal = false;
+            }
+            else
+            {
+                immortal = true;
             }
         }
     }
