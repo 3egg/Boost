@@ -24,59 +24,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cc7ef6-60fe-4427-8651-689fe6346e22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3_Project_Boost/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/318688__limitsnap-creations__rocket-thrust-effect.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/318688__limitsnap-creations__rocket-thrust-effect.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Back.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Back.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Cube.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Cube.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Death_Explosion_SFX.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Death_Explosion_SFX.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Earth.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Earth.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Explosion Particles.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Explosion Particles.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Launchpad.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Launchpad.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1/LightingData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1/LightingData.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1/ReflectionProbe-0.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level1/ReflectionProbe-0.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2/LightingData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2/LightingData.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2/ReflectionProbe-0.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level2/ReflectionProbe-0.exr.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Nose Metrial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Nose Metrial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Obstacle.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Obstacle.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Obstacles.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rock Metrial.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rock Metrial.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rock Ship.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rock Ship.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rocket Jet Particles.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rocket Jet Particles.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Rocket.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Rocket.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rocket_thruster_SFX.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Rocket_thruster_SFX.ogg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ship Metiral.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ship Metiral.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Success Particles.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Success Particles.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/jingle_chime_03_positive.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/jingle_chime_03_positive.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +40,9 @@
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -109,12 +59,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="2711" />
+          <entry key="cs" value="2716" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="2711" />
+          <entry key="C#" value="2716" />
         </counts>
       </usages-collector>
     </session>
@@ -124,43 +74,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="139" column="25" lean-forward="true" selection-start-line="131" selection-start-column="48" selection-end-line="139" selection-end-column="25" />
+            <state relative-caret-position="344">
+              <caret line="148" selection-start-line="148" selection-end-line="148" />
               <folding>
-                <marker date="1558862288682" expanded="false" signature="6:113" ph="..." />
-                <marker date="1558862288682" expanded="true" signature="150:4847" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="737:796" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="906:1260" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1048:1254" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
-                <marker date="1558862288682" expanded="true" signature="1318:1780" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1333:1538" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
-                <marker date="1558862288682" expanded="true" signature="1572:1636" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1693:1774" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1812:1824" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1876:2323" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="1904:1944" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2088:2317" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2354:2625" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2398:2438" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2658:2932" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2698:2926" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="2967:3014" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3048:3381" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3219:3288" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3301:3375" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3408:3869" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3572:3692" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3734:3820" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3896:4437" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="3957:4301" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4151:4287" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4318:4421" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4467:4565" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4510:4559" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4606:4845" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4653:4839" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4689:4751" ph="{...}" />
-                <marker date="1558862288682" expanded="true" signature="4768:4829" ph="{...}" />
+                <marker date="1559055571706" expanded="false" signature="6:113" ph="..." />
+                <marker date="1559055571706" expanded="true" signature="150:4860" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="737:796" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="906:1260" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1048:1254" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+                <marker date="1559055571706" expanded="true" signature="1318:1780" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1333:1538" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+                <marker date="1559055571706" expanded="true" signature="1572:1636" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1693:1774" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1812:1824" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1876:2323" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="1904:1944" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2088:2317" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2354:2625" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2398:2438" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2658:2932" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2698:2926" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="2967:3014" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3048:3383" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3220:3290" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3303:3377" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3410:3882" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3513:3748" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3790:3876" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3909:4450" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="3970:4314" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4164:4300" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4331:4434" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4480:4578" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4523:4572" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4619:4858" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4666:4852" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4702:4764" ph="{...}" />
+                <marker date="1559055571706" expanded="true" signature="4781:4842" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -190,19 +140,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337C3B99-D39E-4C4E-ABDC-0294B81B74C9/e1/3092521a/RigidbodyConstraints.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/77/b825a290/DisallowMultipleComponent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Rocket.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/84/c3249640/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/06/b2752a95/Time.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/ee/93bebf1d/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oscillator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/337C3B99-D39E-4C4E-ABDC-0294B81B74C9/e1/3092521a/RigidbodyConstraints.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9CBED97E-77A8-4E8C-9547-050A4E21C142/c8/7a3ecb9f/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -219,7 +163,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -230,7 +174,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -243,6 +186,7 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -297,11 +241,12 @@
       <workItem from="1558532018452" duration="5916000" />
       <workItem from="1558710652332" duration="902000" />
       <workItem from="1558776566689" duration="6287000" />
+      <workItem from="1559055063937" duration="507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35583000" />
+    <option name="totallyTimeSpent" value="36090000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,10 +258,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="696" extended-state="1" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25788197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -464,43 +409,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Rocket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="139" column="25" lean-forward="true" selection-start-line="131" selection-start-column="48" selection-end-line="139" selection-end-column="25" />
+        <state relative-caret-position="344">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
           <folding>
-            <marker date="1558862288682" expanded="false" signature="6:113" ph="..." />
-            <marker date="1558862288682" expanded="true" signature="150:4847" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="737:796" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="906:1260" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1048:1254" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
-            <marker date="1558862288682" expanded="true" signature="1318:1780" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1333:1538" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
-            <marker date="1558862288682" expanded="true" signature="1572:1636" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1693:1774" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1812:1824" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1876:2323" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="1904:1944" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2088:2317" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2354:2625" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2398:2438" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2658:2932" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2698:2926" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="2967:3014" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3048:3381" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3219:3288" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3301:3375" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3408:3869" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3572:3692" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3734:3820" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3896:4437" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="3957:4301" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4151:4287" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4318:4421" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4467:4565" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4510:4559" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4606:4845" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4653:4839" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4689:4751" ph="{...}" />
-            <marker date="1558862288682" expanded="true" signature="4768:4829" ph="{...}" />
+            <marker date="1559055571706" expanded="false" signature="6:113" ph="..." />
+            <marker date="1559055571706" expanded="true" signature="150:4860" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="737:796" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="906:1260" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1048:1254" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+            <marker date="1559055571706" expanded="true" signature="1318:1780" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1333:1538" ph="/* rigidbody.constraints = RigidbodyConstraints.FreezePositionZ; ... */" />
+            <marker date="1559055571706" expanded="true" signature="1572:1636" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1693:1774" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1812:1824" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1876:2323" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="1904:1944" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2088:2317" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2354:2625" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2398:2438" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2658:2932" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2698:2926" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="2967:3014" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3048:3383" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3220:3290" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3303:3377" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3410:3882" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3513:3748" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3790:3876" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3909:4450" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="3970:4314" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4164:4300" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4331:4434" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4480:4578" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4523:4572" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4619:4858" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4666:4852" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4702:4764" ph="{...}" />
+            <marker date="1559055571706" expanded="true" signature="4781:4842" ph="{...}" />
           </folding>
         </state>
       </provider>

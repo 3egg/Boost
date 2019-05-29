@@ -126,10 +126,10 @@ public class Rocket : MonoBehaviour
 
     private void LoadNextLevel()
     {
-        int currentScene = SceneManager.GetActiveScene().buildIndex;//获取到所有scene.是数量,不是index
+        int currentScene = SceneManager.GetActiveScene().buildIndex; //获取到所有scene.是数量,不是index
         if (currentScene == SceneManager.sceneCountInBuildSettings - 1)
         {
-            SceneManager.LoadScene(0);//这里是加载索引.
+            SceneManager.LoadScene(0); //这里是加载索引.
         }
         else
         {
@@ -139,20 +139,22 @@ public class Rocket : MonoBehaviour
 
     private void Rotate()
     {
-        //每次移动要冻结偏移
-        rigidbody.freezeRotation = true;
         float rotateThisFrame = rccThrust * Time.deltaTime;
         if (Input.GetKey(KeyCode.A))
         {
+            //每次移动要冻结偏移
+            rigidbody.freezeRotation = true;
             //根据火箭前进的方向来rotate偏移火箭
             transform.Rotate(Vector3.forward * rotateThisFrame);
+            rigidbody.freezeRotation = false;
         }
         else if (Input.GetKey(KeyCode.D))
         {
+            //每次移动要冻结偏移
+            rigidbody.freezeRotation = true;
             transform.Rotate(-Vector3.forward * rotateThisFrame);
+            rigidbody.freezeRotation = false;
         }
-
-        rigidbody.freezeRotation = false;
     }
 
     private void Thrust()
